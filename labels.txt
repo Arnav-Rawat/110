@@ -1,0 +1,2 @@
+0 face w/o mask
+1 face w/mask
